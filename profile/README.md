@@ -4,6 +4,11 @@ A place for learning, experimenting, and building cool stuff.
 
 ## Current Projects
 
+### Dice Roller
+A multiplayer TTRPG dice roller with real-time sync. Create a room, share the code, and roll dice together! Uses JS and Socketi.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Dice_Roller-blue?style=flat&logo=github)](https://github.com/Bombing-Around/dice-roller)
+
 ### Trusty Rusty TODO List
 A simple CLI todo list application built with Rust, featuring task management, categories, and configuration options.
 
@@ -21,11 +26,6 @@ Building a Discord bot using DiscordJS to enhance server interactions and fun.
 - [DiscordJS Guide](https://discordjs.guide/)
 
 ## Planned Projects
-
-### Dice Roller
-A dice rolling application for tabletop games and random number generation.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Dice_Roller-blue?style=flat&logo=github)](https://github.com/Bombing-Around/dice-roller)
 
 ### Rock Paper Scissors
 A fun Discord bot implementation of the classic Rock Paper Scissors game.
