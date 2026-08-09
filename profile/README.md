@@ -2,50 +2,66 @@
 
 A place for learning, experimenting, and building cool stuff.
 
-## Current Projects
+## 🎃 Featured — Horror Movie Season
 
-### Dice Roller
-A multiplayer TTRPG dice roller with real-time sync. Create a room, share the code, and roll dice together! Uses JS and Socketi.
+A SvelteKit + Firebase app for planning and tracking your horror movie season: build a
+season watchlist, log what you watch (including films OMDb has never heard of), and earn
+streaks, awards, and a public profile along the way.
+
+🔗 **[horrormovieseason.com](https://horrormovieseason.com)** · [Source](https://github.com/Bombing-Around/horror_movie_season)
+
+## In Progress
+
+### 🎲 Dice Roller
+
+A multiplayer TTRPG dice roller with real-time sync. Create a room, share the six-character
+code, and roll together — dice notation (`2d20+5`), a shared session log, freeform notes,
+and JSON export. No accounts; rooms are ephemeral. Node + Soketi WebSockets.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dice_Roller-blue?style=flat&logo=github)](https://github.com/Bombing-Around/dice-roller)
 
-### Trusty Rusty TODO List
-A simple CLI todo list application built with Rust, featuring task management, categories, and configuration options.
+### ✅ Trusty Rusty TODO List
+
+A CLI todo list in Rust. Tasks belong to categories, with priorities, descriptions,
+soft delete/restore, and a choice of JSON or SQLite storage. Next up: due dates, then a
+command a scheduler can call.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Trusty_Rusty_TODO_List-blue?style=flat&logo=github)](https://github.com/Bombing-Around/trusty_rusty_todo_list)
 
-### Rust Loan Calculator
-A loan calculator built with Rust that accepts and prompts for missing values to calculate loan variables.
+### ▶️ Vimeo Player for VS Code
+
+A VS Code extension that embeds Vimeo videos in a dockable panel. Started life as a
+generic YouTube/Vimeo/Twitch player and narrowed to Vimeo after running into the other
+platforms' embed policies — the write-up of what worked and what didn't is in the repo.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Vimeo_Player_for_VS_Code-blue?style=flat&logo=github)](https://github.com/Bombing-Around/vscode_vimeo_player)
+
+### 🧮 Rust Loan Calculator
+
+A single-file, zero-dependency Rust exercise. It calculates a monthly payment from
+principal, rate, and term — interactively or from arguments — with input validation and
+tests in CI. Solving for whichever variable you *didn't* supply is still on the list.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rust_Loan_Calculator-blue?style=flat&logo=github)](https://github.com/Bombing-Around/loan_calculator)
 
-### Discord Bot
-Building a Discord bot using DiscordJS to enhance server interactions and fun.
+## On the Shelf
 
-- [Replit Example](https://replit.com/@ephbaum/DiscordJS-Guide)
-- [DiscordJS Guide](https://discordjs.guide/)
-
-## Planned Projects
-
-### Rock Paper Scissors
-A fun Discord bot implementation of the classic Rock Paper Scissors game.
-
-### Future Projects
-Always open to new ideas and exciting projects. What should we build next?
+- **🛡️ Foam Flinging Sentry Turret** — a foam-dart sentry turret. Currently a great name and
+  not much else. [Repo](https://github.com/Bombing-Around/foam-flinging-sentry-turret)
+- **✂️ Rock Paper Scissors** — a Discord bot take on the classic.
+- **🤖 Discord bot experiments** — poking at [DiscordJS](https://discordjs.guide/); there's a
+  [Replit example](https://replit.com/@ephbaum/DiscordJS-Guide) knocking around.
 
 ## About
 
 ### Why "Bombing Around"?
-"Bombing Around" is something an old friend used to say when we were kids. It meant to be all over the place, to do a little bit of everything.
 
-Since my last name is Baum, I thought it would be a fun name for a project org that I hoped others might join me in.
+"Bombing Around" is something an old friend used to say when we were kids. It meant to be
+all over the place, to do a little bit of everything.
+
+Since my last name is Baum, I thought it would be a fun name for a project org that I hoped
+others might join me in.
 
 ## Contact
 
-Want to get in touch? Feel free to reach out!
-
-📧 [bombing_around@outlook.com](mailto:bombing_around@outlook.com)
-
----
-
-© 2024 Bombing Around. All rights reserved.
+📧 [bombing_around@outlook.com](mailto:bombing_around@outlook.com) · 🌐 [bombing-around.github.io](https://bombing-around.github.io)
